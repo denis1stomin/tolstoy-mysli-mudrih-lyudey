@@ -2,10 +2,14 @@
 Произведение Л.Н. Толстого, записанное в формате json. ~OMG WTF~ :)
 
 Структура книги:
-book/<month>/<day>.json
+
+`book/<month>/<day>.json`
+
+```
 [
     {
         thought: string,
         author: string
     }
 ]
+```
